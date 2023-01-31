@@ -1,0 +1,35 @@
+body{
+    padding: 10px;
+    background-color: aliceblue
+
+}
+
+h1{
+    font-family: Verdana, Monospace;
+    font-size: 100px;
+}
+
+h2{
+    color: #f2deba;
+}
+
+p{
+    font-size: 14px;
+    line-height: 2
+}
+
+img {
+    width: 45%;
+}
+
+li{
+
+}
+
+footer{
+
+}
+
+.skip:focus{
+    left:0px;
+}
